@@ -69,7 +69,7 @@ function App() {
           </div>
           <div className="snsBtn_box login_btn">
             <button class="snsBtn" type="submit">
-              로그인
+              로그인 ㄹ그일ㅇ너ㅣㅏㄹㅇ너ㅣㅏㄹㅇㄴ머ㅣㅏㄹㅇㄴ머ㅣㅏㄹㅇㄴㅁ
             </button>
           </div>
 
