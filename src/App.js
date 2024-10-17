@@ -45,7 +45,7 @@ function App() {
 
           <div className="or_box">
             <p class="space_or">
-              <span>또는</span>
+              <span>또는 또는 머ㅣㅏㄹㅇ너ㅏㅣㄻㄹㅇㄴㅁ</span>
             </p>
           </div>
 
@@ -69,7 +69,7 @@ function App() {
           </div>
           <div className="snsBtn_box login_btn">
             <button class="snsBtn" type="submit">
-              로그인
+              로그인 ㄹ그일ㅇ너ㅣㅏㄹㅇ너ㅣㅏㄹㅇㄴ머ㅣㅏㄹㅇㄴ머ㅣㅏㄹㅇㄴㅁ
             </button>
           </div>
 
@@ -77,7 +77,7 @@ function App() {
             <div className="join_box">
               <div className="textbox">
                 <a href="https://www.goodchoice.kr/user/join">
-                  <span>비밀번호 재설정</span>
+                  <span>비밀번호 재설정 비밀번호 제사러이ㅏㄴㄹㄴㅁㅇ</span>
                 </a>
               </div>
             </div>
