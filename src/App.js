@@ -25,7 +25,7 @@ function App() {
           <input type="hidden"></input>
           <div class="title_logo">
             <strong class="logo">
-              <a href="#">여기어때</a>
+              <a href="#">여기어때여거이기어디러아러아ㅣㄻ</a>
             </strong>
           </div>
 
