@@ -77,7 +77,7 @@ function App() {
             <div className="join_box">
               <div className="textbox">
                 <a href="https://www.goodchoice.kr/user/join">
-                  <span>비밀번호 재설정</span>
+                  <span>비밀번호 재설정 비밀번호 제사러이ㅏㄴㄹㄴㅁㅇ</span>
                 </a>
               </div>
             </div>
