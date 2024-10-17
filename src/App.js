@@ -10,7 +10,7 @@ function Btn(props) {
       style={{ backgroundColor: props.bg_color, color: props.color }}
     >
       <i class="fa-duotone fa-comment"></i> <FontAwesomeIcon icon={faComment} />
-      {props.title}로 로그인 하세요 로그인=
+      {props.title}로 로그인 하세요 로그인= 러ㅏ닝러ㅣㅏㅇ너리ㅏ ㅁㄴㅇ
     </button>
   );
 }
