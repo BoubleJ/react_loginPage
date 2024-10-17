@@ -45,7 +45,7 @@ function App() {
 
           <div className="or_box">
             <p class="space_or">
-              <span>또는</span>
+              <span>또는 또는 머ㅣㅏㄹㅇ너ㅏㅣㄻㄹㅇㄴㅁ</span>
             </p>
           </div>
 
